@@ -15,8 +15,7 @@
 </p>
 <h2> :hammer: Dependencias: </h2>
 <p align="center">
-   <img src="https://img.shields.io/badge/Unity-brightgreen">
-   <img src="https://img.shields.io/badge/Sharp-brightgreen">
+   <img src="https://img.shields.io/badge/Unity-v2022.3.10f1-brightgreen">
 </p>
 
 <h2>:file_folder: Acceso al proyecto</h2>
